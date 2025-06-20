@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "ethereum-cryptography": "^1.2.0",
+    "keccak": "^3.0.4",
+    "noble-secp256k1": "^1.2.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
